@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509177292064",
+    "firebase_url": "https://bookswap-b884d-default-rtdb.firebaseio.com",
+    "project_id": "bookswap-b884d",
+    "storage_bucket": "bookswap-b884d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509177292064:android:d72bb1e015232a1c8f6345",
+        "android_client_info": {
+          "package_name": "com.bookswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509177292064-lehc89eipqicn22l8ssascv36eosp117.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsoiI7KrYvmdKmsoIxNM1mCcan-7uycc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509177292064-lehc89eipqicn22l8ssascv36eosp117.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
