@@ -10,3 +10,11 @@ giving it to raddiwalas. These books would be utilized in a better manner, if we
 have a wider network and we know people who would like to buy, sell or swap
 our books. So we came up with an idea, a centralized platform (android
 application) where people could buy, sell or swap books.
+
+
+
+### Conclusion :
+Thus, we conclude that we have identified the problem statement and achieved a
+satisfying solution for it by successfully developing a de-centralized platform, an android
+application, wherein user within their nearby area can sell/buy or swap books with each
+other and thus eliminating the problem of buying new books every time.
