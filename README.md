@@ -14,5 +14,3 @@ https://user-images.githubusercontent.com/56028279/125418586-b7e4880c-c0cb-4fec-
 # ![5](https://user-images.githubusercontent.com/56028279/125415808-29cd6722-b486-4edf-88bd-a40a4ee6c84b.png)
 
 
-## Conclusion :
-#### Thus, we conclude that we have identified the problem statement and achieved a satisfying solution for it by successfully developing a de-centralized platform, an android application, wherein user within their nearby area can sell/buy or swap books with each other and thus eliminating the problem of buying new books every time.
